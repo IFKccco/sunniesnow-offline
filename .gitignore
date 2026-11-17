@@ -1,0 +1,24 @@
+# 构建产物与本地依赖（不入库）
+node_modules/
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/main/assets/public/
+android/capacitor-cordova-android-plugins/
+android/local.properties
+*.apk
+*.aab
+*.log
+
+# 内核与素材（体积大 / 第三方版权，见 docs/BUILD.md）
+www/
+game/
+
+# 图标图源（自行准备）
+icon_src.png
+icon_master*.png
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
