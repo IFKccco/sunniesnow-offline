@@ -15,7 +15,7 @@
 
 ## 1. 取内核（网页构建产物）
 
-把 Sunniesnow 官方站点（https://sunniesnow.github.io）的构建产物整份放到：
+把 Sunniesnow 官方站点 https://sunniesnow.github.io 的构建产物整份放到：
 
 ```
 www/game/
